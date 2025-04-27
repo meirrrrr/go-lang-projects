@@ -8,7 +8,7 @@ import (
 	"strings"
 )
 
-const apiKey = "e4c16c9f1124e4e4f37093e22dfced61" 
+const apiKey = "API_KEY"
 
 type WeatherResponse struct {
 	Main struct {
